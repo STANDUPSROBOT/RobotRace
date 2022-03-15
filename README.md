@@ -4,7 +4,7 @@ La robot race est une compétition organisé à Toulouse en janvier de chaque an
 La Toulouse Robot Race est une course de vitesse : le vainqueur sera celui qui aura obtenu le meilleur temps sur un parcours prédéfini, à l'issue de plusieurs manches.
 
 Plusieurs catégories sont disponibles en fonction du type de véhicule utilisé : roulant, piéton, multi pattes, dans la vraie vie.
-Le robot doivent être totalement autonomes.
+Les robot doivent être totalement autonomes.
 
 Pour plus de détails, vous pouvez visiter leur site : http://www.toulouse-robot-race.org/
 
