@@ -12,9 +12,13 @@ L'objectif de ce projet est de participer à la Toulouse Robot Race 2022 dans la
 
 ## TODO LIST
 [x] Définition des objectifs du projet
+
 [] Conception hardware
+
 [] Conception logiciel
+
 [] Commande des composants
+
 [] Réalisation du robot
 
 ## Comment participer ?
