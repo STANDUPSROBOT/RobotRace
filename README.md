@@ -11,15 +11,11 @@ Pour plus de détails, vous pouvez visiter leur site : http://www.toulouse-robot
 L'objectif de ce projet est de participer à la Toulouse Robot Race 2022 dans la catégorie roulant qui semble être la plus accessible pour une première participation.
 
 ## TODO LIST
-[x] Définition des objectifs du projet
-
-[] Conception hardware
-
-[] Conception logiciel
-
-[] Commande des composants
-
-[] Réalisation du robot
+- [x] Définition des objectifs du projet
+- [] Conception hardware
+- [] Conception logiciel
+- [] Commande des composants
+- [] Réalisation du robot
 
 ## Comment participer ?
 
